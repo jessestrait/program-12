@@ -1,0 +1,43 @@
+
+
+h1, h2, h3, body, p {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#txtHint,  #txtHint2, #txtHint3{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th {text-align: left;}
+
+#rss {
+  text-align: center;
+  color: blue;
+  text-shadow: 3px 3px #ff0000;
+  font-size: 150%;
+  font-weight: bold;
+}
+#poll {
+  text-align: center;
+  color: blue;
+  text-shadow: 3px 3px black;
+  font-size: 250%;
+  font-weight: bold;
+  font-style: italic;
+}
